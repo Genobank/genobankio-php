@@ -1,0 +1,33 @@
+{
+    "name": "genobank.io/certificates",
+    "description": "Blockchain Lab Results Certification",
+    "keywords": ["web3", "life-sciences", "covid-19"],
+    "type": "library",
+    "license": "NONE",
+    "authors": [
+        {
+            "name": "William Entriken",
+            "email": "github.com@phor.net",
+            "homepage": "https://phor.net",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.3.0",
+        "sc0vu/web3.php": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "GenoBankio\\Certificates\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    },
+    "minimum-stability": "dev",
+    "config": {
+        "sort-packages": true
+    }
+}
