@@ -1,4 +1,4 @@
-PROJECT STATUS / ALPHA PROOF OF CONCEPT
+PROJECT STATUS / PROOF OF CONCEPT
 
 This requires genobankj / https://github.com/Genobank/genobankj
 
