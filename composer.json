@@ -1,9 +1,13 @@
 {
     "name": "genobank.io/certificates",
     "description": "Blockchain Lab Results Certification",
-    "keywords": ["web3", "life-sciences", "covid-19"],
+    "keywords": [
+        "web3",
+        "life-sciences",
+        "covid-19"
+    ],
     "type": "library",
-    "license": "NONE",
+    "license": "AGPL-3.0-or-later",
     "authors": [
         {
             "name": "William Entriken",
